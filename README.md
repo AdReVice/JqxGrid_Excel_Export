@@ -15,7 +15,7 @@ This is a customize Downloader or say Excel Exporter for JQXGrid
    Now Call below method.
    ### function dynDownload(colToExclude,gridId,fileNm);
   
-### API's Used are-
+### External API's Used are-
   * xlxs.min.js
   * jhxlsx.js
   
