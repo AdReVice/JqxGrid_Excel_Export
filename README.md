@@ -18,3 +18,5 @@ This is a customize Downloader or say Excel Exporter for JQXGrid
 ### API's Used are-
   * xlxs.min.js
   * jhxlsx.js
+  
+#### P.S I have customized it to be 'IE Compatible'
